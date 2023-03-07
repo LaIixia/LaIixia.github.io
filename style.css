@@ -1,0 +1,55 @@
+body{
+    background-image: url("style.png");
+    background-size: cover;
+}
+.box{
+    float:left;
+    text-align:center;
+    width:333px;
+    height:70px;
+    font-size:23px;
+    background-color:gray;
+    border:0px solid black;
+}
+.daimei {
+    font-size:  40px;
+    text-align:center;
+}
+.kousin {
+    font-size:  20px;   
+    text-align:right; 
+}
+.dai{
+    font-size: 25px;   
+    text-align:left; 
+}
+.bun{
+    font-size:  20px;   
+    text-align:left; 
+}
+.inviteback{
+    text-align:center; 
+    font-size:  20px;  
+}
+.invitebun{
+    font-size:  20px;   
+    text-align:center; 
+}
+.invitebox{
+    float:left;
+    text-align:center;
+    width:1350px;
+    height:70px;
+    font-size:23px;
+    background-color:gray;
+    border:0px solid black;
+}
+/*
+.discord{
+    text-align:right;  
+}
+*/
+.kain{
+    text-align:center; 
+    font-size:  18px; 
+}
