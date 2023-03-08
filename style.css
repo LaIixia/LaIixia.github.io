@@ -46,13 +46,10 @@ body{
 }
 
 .back{
-    /*
-    float:left;
-    */
     text-align:center;
-    width:333px;
-    height:70px;
-    font-size:23px;
+    width:100px;
+    height:35px;
+    font-size:18px;
     background-color:gray;
     border:0px solid black;
 }
