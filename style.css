@@ -5,9 +5,9 @@ body{
 .box{
     float:left;
     text-align:center;
-    width:333px;
+    width:370px;
     height:70px;
-    font-size:23px;
+    font-size:18px;
     background-color:gray;
     border:0px solid black;
 }
@@ -44,7 +44,6 @@ body{
     background-color:gray;
     border:0px solid black;
 }
-
 .back{
     text-align:center;
     width:100px;
@@ -53,12 +52,13 @@ body{
     background-color:gray;
     border:0px solid black;
 }
-/*
 .discord{
-    text-align:right;  
+    text-align:left;  
 }
-*/
 .kain{
-    text-align:center; 
+    text-align:left; 
     font-size:  18px; 
+}
+.img{
+    float:left;
 }
