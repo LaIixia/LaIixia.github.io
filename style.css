@@ -1,6 +1,11 @@
 body{
     background-image: url("style.png");
     background-size: cover;
+        background-size: cover;
+    height: 1080px;
+    width: 1920px;
+    position: absolute;
+    transform-origin: 0% 0%;
 }
 .box{
     float:left;
