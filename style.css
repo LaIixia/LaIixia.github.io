@@ -5,7 +5,7 @@ body{
 .box{
     float:left;
     text-align:center;
-    width:370px;
+    width:333px;
     height:70px;
     font-size:17px;
     background-color:gray;
@@ -29,7 +29,6 @@ body{
 }
 .inviteback{
     text-align:center; 
-    font-size:  20px;  
 }
 .invitebun{
     font-size:  20px;   
@@ -38,7 +37,7 @@ body{
 .invitebox{
     float:left;
     text-align:center;
-    width:1500px;
+    width:1350px;
     height:70px;
     font-size:23px;
     background-color:gray;
