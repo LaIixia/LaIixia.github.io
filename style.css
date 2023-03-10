@@ -1,7 +1,6 @@
 body{
     background-image: url("style.png");
     background-size: cover;
-width:1250px;
 }
 .box{
     float:left;
@@ -39,7 +38,7 @@ width:1250px;
 .invitebox{
     float:left;
     text-align:center;
-    width:1350px;
+    width:1500px;
     height:70px;
     font-size:23px;
     background-color:gray;
@@ -52,9 +51,6 @@ width:1250px;
     font-size:18px;
     background-color:gray;
     border:0px solid black;
-}
-.discord{
-    text-align:right;  
 }
 .kain{
     text-align:left; 
