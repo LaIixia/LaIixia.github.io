@@ -7,7 +7,7 @@ body{
     text-align:center;
     width:370px;
     height:70px;
-    font-size:18px;
+    font-size:17px;
     background-color:gray;
     border:0px solid black;
 }
@@ -53,7 +53,7 @@ body{
     border:0px solid black;
 }
 .discord{
-    text-align:left;  
+    text-align:right;  
 }
 .kain{
     text-align:left; 
