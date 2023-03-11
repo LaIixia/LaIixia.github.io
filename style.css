@@ -3,8 +3,7 @@ body{
     background-size: cover;
     height: 768px;
     width: 1075px;
-    position: absolute;
-    transform-origin: 0% 0%;
+
 }
 .box{
     float:left;
