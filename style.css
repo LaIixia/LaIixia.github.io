@@ -5,11 +5,10 @@ body{
 .box{
     float:left;
     text-align:center;
+    font-size:17px;
     width:333px;
     height:70px;
-    font-size:17px;
     background-color:gray;
-    border:0px solid black;
 }
 .daimei {
     font-size:  40px;
@@ -32,7 +31,8 @@ body{
 }
 .invitebun{
     font-size:  20px;   
-    text-align:center; 
+    text-align:center;
+  
 }
 .invitebox{
     float:left;
@@ -41,7 +41,7 @@ body{
     height:70px;
     font-size:23px;
     background-color:gray;
-    border:0px solid black;
+    border-radius:15px;
 }
 .back{
     text-align:center;
@@ -49,7 +49,7 @@ body{
     height:35px;
     font-size:18px;
     background-color:gray;
-    border:0px solid black;
+    border-radius:15px;
 }
 .kain{
     text-align:left; 
