@@ -1,5 +1,5 @@
 body{
-    background-image: url(".image/style.png");
+    background-image: url("image/style.png");
     background-size: cover;
 }
 .box{
