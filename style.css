@@ -3,12 +3,12 @@ body{
     background-size: cover;
 }
 .box{
-    float:left;
     text-align:center;
     font-size:17px;
-    width:333px;
-    height:70px;
+    width:auto;
+    height:35px;
     background-color:gray;
+    border-radius:15px;
 }
 .daimei {
     font-size:  40px;
@@ -35,9 +35,8 @@ body{
   
 }
 .invitebox{
-    float:left;
     text-align:center;
-    width:1350px;
+    width:auto;
     height:70px;
     font-size:23px;
     background-color:gray;
@@ -53,7 +52,7 @@ body{
 }
 .kain{
     text-align:left; 
-    font-size:  18px; 
+    font-size:auto; 
 }
 .img{
     float:left;
