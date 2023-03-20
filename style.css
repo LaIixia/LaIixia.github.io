@@ -14,7 +14,7 @@ body{
     font-size:  40px;
     text-align:center;
 }
-.kousin {
+.day {
     font-size:  20px;   
     text-align:right; 
 }
@@ -25,6 +25,14 @@ body{
 .bun{
     font-size:  20px;   
     text-align:left; 
+}
+.back{
+    text-align:center;
+    width:100px;
+    height:35px;
+    font-size:18px;
+    background-color:#B0C4DE;
+    border-radius:15px;
 }
 .inviteback{
     text-align:center; 
@@ -42,15 +50,7 @@ body{
     background-color:#B0C4DE;
     border-radius:15px;
 }
-.back{
-    text-align:center;
-    width:100px;
-    height:35px;
-    font-size:18px;
-    background-color:#B0C4DE;
-    border-radius:15px;
-}
-.tab{
+.title{
     text-align:center; 
 }
 .shoukai{
