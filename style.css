@@ -54,11 +54,15 @@ body{
     text-align:center; 
 }
 .shoukai{
-  text-align:center;
-}
+    text-align:center;
+} 
 .right2{
-   text-align: center;
+    text-align: center;
 }
 .footer{
- text-align:center;
+    text-align:center;
+}
+.jump{
+    line-height:600px;
+    text-align:center;
 }
