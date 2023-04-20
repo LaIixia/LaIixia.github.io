@@ -2,6 +2,9 @@ body{
     background-image: url("image/style.png");
     background-size: cover;
 }
+.title{
+    text-align:center; 
+}
 .box{
     text-align:center;
     font-size:17px;
@@ -10,17 +13,24 @@ body{
     background-color:#B0C4DE;
     border-radius:15px;
 }
+.shoukai{
+    font-size:20px;
+    text-align:center;
+} 
+.shoukai_img{
+    text-align: center;
+}
 .daimei {
     font-size:  40px;
     text-align:center;
 }
-.day {
-    font-size:  20px;   
-    text-align:right; 
-}
 .dai{
     font-size: 25px;   
     text-align:left; 
+}
+.day{
+    font-size:  20px;   
+    text-align:right; 
 }
 .bun{
     font-size:  20px;   
@@ -40,7 +50,6 @@ body{
 .invitebun{
     font-size:  20px;   
     text-align:center;
-  
 }
 .invitebox{
     text-align:center;
@@ -50,20 +59,20 @@ body{
     background-color:#B0C4DE;
     border-radius:15px;
 }
-.title{
-    text-align:center; 
-}
-.shoukai{
-    font-size:20px;
-    text-align:center;
-} 
-.right2{
-    text-align: center;
-}
 .footer{
     text-align:center;
 }
-.jump{
+.auto{
     line-height:600px;
     text-align:center;
 }
+.faq_dai{
+    text-align:center;
+}
+.faq_img{
+    text-align:center;
+} 
+.faq_bun{
+    text-align:center;
+    font-size:  20px;
+} 
