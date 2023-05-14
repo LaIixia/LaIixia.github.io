@@ -2,6 +2,9 @@ body{
     background-image: url("image/style.png");
     background-size: cover;
 }
+.ads{
+    text-align:center; 
+}
 .title{
     text-align:center; 
 }
