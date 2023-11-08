@@ -1,6 +1,8 @@
 body{
     background-image: url("image/style.png");
     background-size: cover;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 900;
 }
 .ads{
     text-align:center; 
