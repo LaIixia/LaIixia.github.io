@@ -4,40 +4,64 @@ body{
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-weight: 900;
 }
-.title{
+
+.center{
     text-align:center; 
 }
 .box{
     text-align:center;
     font-size:17px;
     width:auto;
-    height:35px;
+    height:38px;
     background-color:#B0C4DE;
-    border-radius:15px;
+    border-radius:50px;
 }
-.shoukai{
+.text{
     font-size:20px;
     text-align:center;
 } 
-.shoukai_img{
-    text-align: center;
+.boxleft{
+    float: left;
+    text-align:center;
+    font-size:17px;
+    width:600px;
+    height:600px;
+    background-color:#c8c9cb;
+    border-radius:15px;
+     margin-top: 50px;
+     margin-left: 30px;
 }
-.daimei {
-    font-size:  40px;
+.boxright{
+    float: right;
+    text-align:center;
+    font-size:17px;
+    width:600px;
+    height:600px;
+    background-color:#c8c9cb;
+    border-radius:15px;
+    margin-top: 50px;
+    margin-right: 30px;
+}
+.sectiontext{
+ font-size:17px;
+ text-align: left;   
+}
+
+.footer1{
+    margin-top: 2150px;
+    margin-left: -40px;
+    position:absolute;
+}
+
+.footer{
     text-align:center;
 }
-.dai{
-    font-size: 25px;   
-    text-align:left; 
-}
-.day{
-    font-size:  20px;   
+
+.timestamp{
+    font-size:  15px;   
     text-align:right; 
 }
-.bun{
-    font-size:  20px;   
-    text-align:left; 
-}
+
 .back{
     text-align:center;
     width:100px;
@@ -46,13 +70,7 @@ body{
     background-color:#B0C4DE;
     border-radius:15px;
 }
-.inviteback{
-    text-align:center; 
-}
-.invitebun{
-    font-size:  20px;   
-    text-align:center;
-}
+
 .invitebox{
     text-align:center;
     width:auto;
@@ -61,20 +79,8 @@ body{
     background-color:#B0C4DE;
     border-radius:15px;
 }
-.footer{
-    text-align:center;
-}
+
 .auto{
     line-height:600px;
     text-align:center;
 }
-.faq_dai{
-    text-align:center;
-}
-.faq_img{
-    text-align:center;
-} 
-.faq_bun{
-    text-align:center;
-    font-size:  20px;
-} 
