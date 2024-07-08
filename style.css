@@ -47,11 +47,6 @@ body{
  text-align: left;   
 }
 
-.images{
-    object-fit: contain;
-    width:500px;
-}
-
 .footer1{
     margin-top: 2150px;
     margin-left: -40px;
